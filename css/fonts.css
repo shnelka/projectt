@@ -1,0 +1,32 @@
+@font-face{
+  font-family: 'rubik';
+  src: url('../fonts/Rubik-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face{
+  font-family: 'rubik';
+  src: url('../fonts/Rubik-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+@font-face{
+  font-family: 'rubik';
+  src: url('../fonts/Rubik-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+/* 
+100 - thin
+200 - extra light
+300 - light
+400 - regular (normal)
+500 - medium
+600 - semi bold
+700 - bold
+800 - extra bold
+900 - black (bolder, have bold)
+
+.ttf = truetype
+.otf = opentype
+.eot = embadedopentype
+.woff = woff
+.woff2 = woff2
+*/
